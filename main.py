@@ -6,6 +6,7 @@ def main_function():
 
 def test_function():
     print("test hello")
+    print("world")
 
 main_function()
 
