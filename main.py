@@ -4,9 +4,5 @@ def main_function():
     print("world")
     return 0
 
-def test_function():
-    print("test hello")
-    print("world")
-
 main_function()
 
